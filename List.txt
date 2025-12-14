@@ -1,21 +1,3 @@
-Anthony Lepore
-Hermes Vallejo
-Nicholas Crane
-Susana Crespo
-Jorge Martinez de Alva
-Barbara Majkowska
-Subbiah Mahalingam
-Vishnu Chittem
-Jon Corbitt
-Miguel Crespo
-Ravi Dawar
-Sunil Agarwal
-Parimal Goel
-Mitch Spivey
-Mateuz Kopka
-Bibi Knoetze
-Annick Van Lent
-Cristian Lorenzo
-Cheryl Orange
-Loretta Mertz
-Dave Marton
+ANTHROPIC_API_KEY - con-e8bfe185f30157f727ce6aa29150fdd50cf250f57168bce58dfb20bf6395f29f
+INCEPTION_API_KEY - con-f44b93b79b792f07a1e1decc76d27b1e46ac4888836e8510f07bdfd848678653
+OPENAI_API_KEY - con-4b91e274a4a291c7b01fccdd1c0b18ba534b1b9242f964b5973a9e56405c6166
